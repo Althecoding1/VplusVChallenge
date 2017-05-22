@@ -1,0 +1,2 @@
+- Clone or download repository
+- Open index.html to view and interact with page
